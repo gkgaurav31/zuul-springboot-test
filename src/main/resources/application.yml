@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    foos:
+      path: /foo/**
+      url: https://gaukjavawinlog.azurewebsites.net/hello
